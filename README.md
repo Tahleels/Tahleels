@@ -5,37 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahleels&label=Profile%20views&color=0e75b6&style=flat" alt="tahleels" /> </p>
 
-- 🔭 I’m currently working on<br>Agentic & GenAI-powered enterprise solutions using modern AI frameworks.<br><br>
-- 👯 I’m looking to collaborate on<br>Projects solving real-world problems with AI and intelligent systems.<br><br>
-- 🤝 I’m looking for help with<br>Deep learning research, transformers, LLM pipelines, and MLOps.<br><br>
-- 🌱 I’m currently learning<br>Deep learning, agentic workflows, RAG, MCP, and emerging AI technologies.<br><br>
-- 💬 Ask me about<br>Python, Generative AI, LangChain, LLMs, and AI automation.<br><br>
-- ⚡ Fun fact: *I enjoy experimenting with neural models and automation tools that make ideas real!*
-- 📫 Reach me at **tahleelshaikh404@gmail.com**
-
----
-
-## 🚀 Featured Projects
-
-### 🧩 [Nexus](https://github.com/Tahleels/nexus)
-Multi-agent NLQ-to-SQL and automated reporting platform that turns natural language questions into SQL queries and business reports using orchestrated LLM agents.
-`Python` `LangChain` `LangGraph` `FastAPI` `SQL`
-
-### 🧠 [OmniMind](https://github.com/Tahleels/omnimind)
-Hybrid retrieval-augmented assistant with 60+ automated evals, combining vector search and LLM reasoning for accurate, grounded answers.
-`Python` `RAG` `Qdrant` `ChromaDB` `Langfuse`
-
-### 🎙️ [SpiWave.ai](https://github.com/Tahleels/SpiWave.ai)
-Real-time voice AI orchestration engine for low-latency conversational agents.
-`Python` `Voice AI` `Agentic Orchestration`
-
-### ☁️ [AWS Capstone Projects](https://github.com/Tahleels/aws-capstone-projects)
-A portfolio of 15 AWS capstone projects covering end-to-end cloud infrastructure automation, CI/CD pipelines, serverless architectures, and containerized applications.
-`AWS` `Docker` `Lambda` `EC2` `DevOps`
-
-### 🤖 [Multi-Agent Database Reasoning](https://github.com/Tahleels/Multi-Agent-Database-Reasonings)
-Multi-agent system for reasoning over databases and generating accurate query-driven answers.
-`Python` `Multi-Agent Systems` `LLMs`
+- 🔭 I’m currently working on<br>Agentic & GenAI-powered enterprise solutions — multi-agent systems, RAG pipelines, and LLM fine-tuning for production use cases.<br><br>
+- 👯 I’m looking to collaborate on<br>Projects solving real-world problems with AI, automation, and intelligent systems.<br><br>
+- 🤝 I’m looking for help with<br>Deep learning research, transformers, LLM pipelines, and MLOps at scale.<br><br>
+- 🌱 I’m currently learning<br>Agentic workflows, RAG, MCP, and other emerging AI technologies.<br><br>
+- 💬 Ask me about<br>Python, Generative AI, LangChain, LangGraph, LLMs, RAG, and AI automation.<br><br>
+- ⚡ Fun fact: *I enjoy experimenting with neural models and automation tools that turn ideas into working systems!*
+- 📫 Reach me at **[tahleelshaikh404@gmail.com](mailto:tahleelshaikh404@gmail.com)**
 
 ---
 
@@ -67,13 +43,4 @@ Multi-agent system for reasoning over databases and generating accurate query-dr
 
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it.&author=Alan%20Kay&theme=radical&border_radius=10" alt="Golden Glow Quote" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.shion.dev/api?username=tahleels&show_icons=true&theme=dark&hide_border=false&count_private=true" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tahleels&theme=dark&hide_border=false" height="180"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.shion.dev/api/top-langs?username=tahleels&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
