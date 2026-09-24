@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)]
 <h1 align="center">Hie👋, I'm Tahleel Shaikh</h1>
-<h3 align="center">AI & Machine Learning Research Enthusiast</h3>
+<h3 align="center">AI/ML Software Engineer | Agentic AI, RAG & LLM Systems | Open to Full-time Roles</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/itsferdiardiansa/itsferdiardiansa/master/icons/developer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahleels&label=Profile%20views&color=0e75b6&style=flat" alt="tahleels" /> </p>
@@ -15,11 +15,36 @@
 
 ---
 
+## 🚀 Featured Projects
+
+### 🧩 [Nexus](https://github.com/Tahleels/nexus)
+Multi-agent NLQ-to-SQL and automated reporting platform that turns natural language questions into SQL queries and business reports using orchestrated LLM agents.
+`Python` `LangChain` `LangGraph` `FastAPI` `SQL`
+
+### 🧠 [OmniMind](https://github.com/Tahleels/omnimind)
+Hybrid retrieval-augmented assistant with 60+ automated evals, combining vector search and LLM reasoning for accurate, grounded answers.
+`Python` `RAG` `Qdrant` `ChromaDB` `Langfuse`
+
+### 🎙️ [SpiWave.ai](https://github.com/Tahleels/SpiWave.ai)
+Real-time voice AI orchestration engine for low-latency conversational agents.
+`Python` `Voice AI` `Agentic Orchestration`
+
+### ☁️ [AWS Capstone Projects](https://github.com/Tahleels/aws-capstone-projects)
+A portfolio of 15 AWS capstone projects covering end-to-end cloud infrastructure automation, CI/CD pipelines, serverless architectures, and containerized applications.
+`AWS` `Docker` `Lambda` `EC2` `DevOps`
+
+### 🤖 [Multi-Agent Database Reasoning](https://github.com/Tahleels/Multi-Agent-Database-Reasonings)
+Multi-agent system for reasoning over databases and generating accurate query-driven answers.
+`Python` `Multi-Agent Systems` `LLMs`
+
+---
+
 ## 🌐 Socials:
 <p align="left">
-  <a href="https://linkedin.com/in/tahleel-shaikh" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  <a href="https://x.com/tahleelx" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"></a> 
-  <a href="mailto:tahleelshaikh404@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://linkedin.com/in/tahleel-shaikh" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://topmate.io/tahleel" target="_blank"><img src="https://img.shields.io/badge/Topmate-FF6B4A?style=for-the-badge&logo=linktree&logoColor=white"></a>
+<a href="https://x.com/xtahleelx" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="mailto:tahleelshaikh404@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
@@ -27,7 +52,7 @@
 ## 💻 Tech Stack
 
 ### 🧠 AI / ML & Data Science
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 
 ### 🌐 Web & Software Development
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
@@ -41,9 +66,14 @@
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it.&author=Alan%20Kay&theme=radical&border_radius=10" alt="Golden Glow Quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it.&author=Alan%20Kay&theme=radical&border_radius=10" alt="Golden Glow Quote" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahleels&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api?username=tahleels&show_icons=true&theme=dark&hide_border=false&count_private=true" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tahleels&theme=dark&hide_border=false" height="180"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahleels&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
